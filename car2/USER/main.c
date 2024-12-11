@@ -25,7 +25,6 @@ int main(void)
 	//ÔËÐÐÂß¼­
 	arrive_most_up();
 	delay_ms(100);
-
 //	delay_ms(1000);
 //	claw_turn129();
 //	delay_ms(1000);
